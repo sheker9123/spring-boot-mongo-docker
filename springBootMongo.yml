@@ -1,4 +1,4 @@
-apiVersion: 
+apiVersion: apps
 kind: ReplicationController
 metadata:
   labels:
